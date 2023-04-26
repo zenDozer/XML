@@ -2,7 +2,9 @@
 
 ***1. Создать внешний репозиторий c названием XML***
 
-`github.com -> Repositories -> New -> "XML" -> Create repository`
+```
+github.com -> Repositories -> New -> "XML" -> Create repository
+```
 
 ***2. Клонировать репозиторий XML на локальный компьютер***
 
@@ -21,15 +23,21 @@ touch new.XML
 
 ***4. Добавить файл под гит***
 
-`git add .`
+```
+git add .
+```
 
 ***5. Закоммитить файл***
 
-`git commit - m "Add new.xml file`
+```
+git commit - m "Add new.xml file
+```
 
 ***6. Отправить файл на внешний GitHub репозиторий***
 
-`git push`
+```
+git push
+```
 
 ***7. Отредактировать содержание файла “new.xml” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате XML***
 
@@ -44,6 +52,7 @@ vim new.xml
 	<salary>750</salary>
 </My_info>
 ```
+
 ***8. Отправить изменения на внешний репозиторий***
 
 ```
@@ -97,19 +106,27 @@ vim sklls.xml
 
 ***12. Сделать коммит в одну строку***
 
-`git add . && git commit -m "Add 2 files"`
+```
+git add . && git commit -m "Add 2 files"
+```
 
 ***13. Отправить сразу 2 файла на внешний репозиторий***
 
-`git push`
+```
+git push
+```
 
 ***14. На веб интерфейсе создать файл bug_report.xml***
 
-`Enter to repo XML -> Add file -> Create new file ->  bug_report.xml`
+```
+Enter to repo XML -> Add file -> Create new file ->  bug_report.xml
+```
 
 ***15. Сделать Commit changes (сохранить) изменения на веб интерфейсе***
 
-`Commit changes -> Commit message: "Add bug_report.xml" -> Commit changes`
+```
+Commit changes -> Commit message: "Add bug_report.xml" -> Commit changes
+```
 
 ***16. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML***
 
@@ -133,7 +150,9 @@ Select bug_report.xml file -> add changes:
 
 ***17. Сделать Commit changes (сохранить) изменения на веб интерфейсе***
 
-`Commit changes -> Commit message: "Update bug_report.xml" -> Commit changes`
+```
+Commit changes -> Commit message: "Update bug_report.xml" -> Commit changes
+```
 
 ***18. Синхронизировать внешний и локальный репозиторий XML***
 
