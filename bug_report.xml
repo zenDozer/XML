@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+	<ID>LF-001</ID>
+  <Summary>The Login button should be blue - not red</Summary>
+  <Severity>Minor</Severity>
+  <Priority>Low</Priority>
+  <Environment>PC, Windows 11, Chrome</Environment>
+  <Steps>Open example_site.com, click on sign in button</Steps>
+  <ExpectedR>Login button is blue</ExpectedR>
+  <ActualR>Login button is red</ActualR>
+  <Attachments>Screenshot.jpg</Attachments>
+  <ReportedBy>Oleksandr Malko</ReportedBy>
+</report>
