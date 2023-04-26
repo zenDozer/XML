@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+	<s1>Basic theory</s1>
+	<s2>client-server architecture</s2>
+	<s3>"HTTP"</s3>
+	<s4>JSON/XML</s4>
+	<s5>Postman</s5>
+	<s6>Charles</s6>
+	<s7>Fidler</s7>
+	<s8>Dev Tools</s8>
+	<s9>VPN</s9>
+	<s10>Mobile testing</s10>
+	<s11>Android Studio</s11>
+	<s12>Terminal</s12>
+	<s13>Git</s13>
+	<s14>SQL basic</s14>
+	<s15>Jmeter</s15>
+	<s16>Scrum</s16>
+	<s17>Python basic</s17>
+</skills>
