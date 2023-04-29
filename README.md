@@ -18,13 +18,13 @@ git clone git@github.com:zenDozer/XML.git
 
 ```
 cd XML
-touch new.XML
+touch new.xml
 ```
 
 ***4. Добавить файл под гит***
 
 ```
-git add .
+git add new.xml
 ```
 
 ***5. Закоммитить файл***
